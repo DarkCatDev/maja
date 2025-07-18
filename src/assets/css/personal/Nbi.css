@@ -1,0 +1,22 @@
+
+@media (max-width: 576px){
+
+}
+
+
+@media (max-width: 355px){
+    #img6 {
+        width: 280px;
+    }
+
+    #img7 {
+        width: 280px;
+        margin-top: 10px;
+        margin-bottom: 10px;
+    }
+
+    #img8 {
+        width: 280px;
+        margin-top: 15px;
+    }
+}
