@@ -1,6 +1,13 @@
 
-@media (max-width: 576px){
+@media (min-width: 576px){
+    .embossed-layer .pagibig-pic  {
+        width: 600px;
+    }
 
+    #img3 {
+        margin-top: 10px;
+        width: 600px;
+    }
 }
 
 

@@ -1,6 +1,52 @@
 
-@media (max-width: 576px){
+@media (min-width: 755px){
+    .bc-links {
+        display: flex;
+        justify-content: center;
+    }
+    .embossed-area2 {
+        display: flex;
+        justify-content: center;
+        flex-direction: row;
+        width: 100%;
+        gap: 10px;
 
+    }
+    .embossed-layer{
+        margin-left: 0px;
+    }
+
+    .embossed-layer2 {
+        background-color: aliceblue;
+        border: 7px outset rgb(194, 201, 207);
+        width: 500px;
+        padding: 1px 50px 1px 50px;
+        border-radius: 7px;
+        margin-left: 75px;
+    }    
+
+    .bc-links {
+        margin-top: 50px;
+        margin-bottom: 50px;
+    }
+
+    #home-buttons2 {
+        border-radius: 20px;
+        height: 50px;
+        width: 200px;
+        border: 5px outset black;
+        font-size: 20px;
+
+    }
+
+    #psa-button {
+        border: 4px outset black;
+        width: 300px;
+        height: 50px;
+        border-radius: 5px;
+        margin-left: 20%;
+        margin-right: 20%;
+    }
 }
 
 
