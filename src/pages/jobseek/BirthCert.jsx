@@ -19,7 +19,6 @@ function BirthCert(){
                 <div className="embossed-layer">
                     <p>Birth Certificate is the primary Identification for every citizen of Philippines. It is issued by the Local Civil Registrar of the place where the birth occurred.</p>
                     <p>Note!</p>
-                    <p>
                         <i>
                             <ul>
                                 <li>Always have many photocopies of your birth Certificate and keep it in a safe place. Mas maganda if naka Binder or plastic envelope para di masira o mabasa. Hindi lang hardcopy, pati din softcopy na nasa flash drive, phone or laptop.</li>
@@ -28,7 +27,6 @@ function BirthCert(){
                                 <li>Private Sector Jobs only require Valid Government ID, SSS, Tin Number, Diploma/TOR, NBI Clearance, and Medical Certificate. You should keep your private info safe. Kaya if hinihingian ka ng private information, think twice and research the company.</li>
                             </ul>
                         </i>
-                    </p>
                     <p>Kakatawa lang kasi napasa ko sa University yung Original Copy ko Lol. Yun daw kasi required. Buti nalang meron pa akong copies. Share ko lang.</p>
                 </div>
 
@@ -43,7 +41,6 @@ function BirthCert(){
                     <div className="embossed-layer2">
                         <p>Birth Certificate is the primary Identification for every citizen of Philippines. It is issued by the Local Civil Registrar of the place where the birth occurred.</p>
                         <p>Note!</p>
-                        <p>
                             <i>
                                 <ul>
                                     <li>Always have many photocopies of your birth Certificate and keep it in a safe place. Mas maganda if naka Binder or plastic envelope para di masira o mabasa. Hindi lang hardcopy, pati din softcopy na nasa flash drive, phone or laptop.</li>
@@ -52,7 +49,6 @@ function BirthCert(){
                                     <li>Private Sector Jobs only require Valid Government ID, SSS, Tin Number, Diploma/TOR, NBI Clearance, and Medical Certificate. You should keep your private info safe. Kaya if hinihingian ka ng private information, think twice and research the company.</li>
                                 </ul>
                             </i>
-                        </p>
                         <p>Kakatawa lang kasi napasa ko sa University yung Original Copy ko Lol. Yun daw kasi required. Buti nalang meron pa akong copies. Share ko lang.</p>
                     </div>
 

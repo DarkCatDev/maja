@@ -26,7 +26,7 @@ function Resume(){
                 <div className="embossed-layer">
                     <p>Hindi na masyado importante mag lagay ng picture sa resume, pero I still do it. If you think it would be beneficial to put or not, nasa sayo na yan. </p>
                     <p>Ang usual na nakalagay sa Resume is the following</p>
-                    <p>
+                    
                         <ul>
                             <li>Full Name</li>
                             <li>Address</li>
@@ -40,7 +40,7 @@ function Resume(){
                             <li>Certifications(Optional)</li>
                             <li>Character Reference(Optional)</li>
                         </ul>
-                    </p>
+                    
                 </div>
                 <div className="embossed-layer">
                     <p>For address, maganda ilagay yung address na tutuloyan mo if malayo ang work place from home address. Or pwede ka rin mag lagay ng dalawang address, isang home address at isang current address.</p>
@@ -78,7 +78,7 @@ function Resume(){
                     <div className="embossed-layer">
                         <p>Hindi na masyado importante mag lagay ng picture sa resume, pero I still do it. If you think it would be beneficial to put or not, nasa sayo na yan. </p>
                         <p>Ang usual na nakalagay sa Resume is the following</p>
-                        <p>
+                        
                             <ul>
                                 <li>Full Name</li>
                                 <li>Address</li>
@@ -92,7 +92,7 @@ function Resume(){
                                 <li>Certifications(Optional)</li>
                                 <li>Character Reference(Optional)</li>
                             </ul>
-                        </p>
+                        
                     </div>
                     <div className="embossed-layer">
                         <p>For address, maganda ilagay yung address na tutuloyan mo if malayo ang work place from home address. Or pwede ka rin mag lagay ng dalawang address, isang home address at isang current address.</p>

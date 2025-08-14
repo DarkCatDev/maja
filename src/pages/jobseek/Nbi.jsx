@@ -33,7 +33,6 @@ function NBI(){
                 </div>
                 <div className="embossed-layer">
                     <p>After creating, pwede ka na mag log-in. Pero may need ka pang completohin na personal information after mag log in. Examples ng pifill apan:</p>
-                    <p>
                         <ul>
                             <li>Nickname</li>
                             <li>Civil Status</li>
@@ -45,7 +44,7 @@ function NBI(){
                             <li>Complexion</li>
                             <li>Identifying marks</li>
                         </ul>
-                    </p>
+                    
                 </div>
 
                 <div className="embossed-layer">
@@ -82,7 +81,7 @@ function NBI(){
 
                     <div className="embossed-layer">
                         <p>After creating, pwede ka na mag log-in. Pero may need ka pang completohin na personal information after mag log in. Examples ng pifill apan:</p>
-                        <p>
+                        
                             <ul>
                                 <li>Nickname</li>
                                 <li>Civil Status</li>
@@ -94,7 +93,7 @@ function NBI(){
                                 <li>Complexion</li>
                                 <li>Identifying marks</li>
                             </ul>
-                        </p>
+                        
                     </div>
 
                     <div className="embossed-layer">
